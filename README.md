@@ -9,7 +9,7 @@ en pepaalde objecten in de server laten bewegen (knockback).
 - [Exploding Nade](https://github.com/Yaruno292/networkFps/blob/master/Scripts/Object/NadeExplode.cs)
 - [Player Shoot](https://github.com/Yaruno292/networkFps/blob/master/Scripts/Player/PlayerShoot.cs)
   Werkt not niet 100% op het netwerk, maar ik heb er wel veel tijd ingestoken.
-- [Iets unieks waar je trots op bent binnen de project](link)
+- [Simple Networked Target](https://github.com/Yaruno292/networkFps/blob/master/Scripts/Object/Target.cs)
 
 - Er is ook veel aangepast aan de prefabs en objecten.
 
