@@ -6,7 +6,7 @@ en pepaalde objecten in de server laten bewegen (knockback).
 
 ## Features
 
-- [Awesome Algoritme](link)
+- [Exploding Nade](https://github.com/Yaruno292/networkFps/blob/master/Scripts/Object/NadeExplode.cs)
 - [Specifieke Mechanic](link)
 - [Iets unieks waar je trots op bent binnen de project](link)
 
