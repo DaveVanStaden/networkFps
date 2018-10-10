@@ -10,6 +10,8 @@ en pepaalde objecten in de server laten bewegen (knockback).
 - [Specifieke Mechanic](link)
 - [Iets unieks waar je trots op bent binnen de project](link)
 
+- Er is ook veel aangepast aan de prefabs en objecten.
+
 ## Software Anaylse 
 Ik heb unity gekozen omdat ik daar al een bestaande game in had
 en waarvan ik het multiplayer wilde maken.
