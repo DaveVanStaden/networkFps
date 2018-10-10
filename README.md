@@ -1,35 +1,41 @@
-# Naam Proefopdracht
-*Let goed bij het maken, schrijven en bijhouden van dit document op de **[prestatie-indicatoren](https://drive.google.com/drive/folders/1y8l0Zr4E8b6gYJui_pSzQaoWr-gEr6JN?usp=sharing)**. Deze toon je aan in dit document.*
+# GainPlay - Multiplayer network
 
-Hier komt een korte beschrijving van de proefopdracht. Wat heb je precies gedaan? 
+Ik heb mijn terrain destruction game omgebouwd naar een multiplayer FPS game.
+De spelers kunnen elkaar zien bewegen, zien shieten, dingen instantiaten 
+en pepaalde objecten in de server laten bewegen (knockback).
 
 ## Features
-Wanneer je een specifiek onderdeel wilt uitlichten kun je dat in deze sectie benoemen.
 
 - [Awesome Algoritme](link)
 - [Specifieke Mechanic](link)
 - [Iets unieks waar je trots op bent binnen de project](link)
 
 ## Software Anaylse 
-Welke software heb je voor deze proefopdracht onderzocht? En waarom heb je uiteindelijk gekozen voor de gekozen Software. Benoem hier specifieke argumenten.
+Ik heb unity gekozen omdat ik daar al een bestaande game in had
+en waarvan ik het multiplayer wilde maken.
+Unity heeft ook al ingebouwde network objecten en ik wilde daar graag meer over leren.
 
 ## Leerdoelen 
-Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
-- Het Flood-Fill algoritme snappen en toepassen
-- Het ontwikkelen van een generieke FSM.
-- etc. etc.
+- Andere spelers zien bewegen.
+- Spelers die de omgeving veranderen in de server wereld.
+- Granaten naar elkaar gooien.
+- Elkaar schieten.
 
-## Planning 
-Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om precies te doen?
+## Planning
 
-| | maandag | dinsdag | woensdag | donderdag | vrijdag |
-| --- | --- | --- | --- | --- | --- |
-|week 1 |
-|week 2 |
+Week 1:
+ma: Onderzoek naar hoe networking werkt in Unity
+di: volgen van tutorial
+wo: zelf dingen testen
+do: Network player movement
+vri: Network instantiated objects
+
+week 2:
+ma: Network knockback
+di: Network HP
+wo: Proberen al bestaande objecten in de wereld te syncen, maar t werkt niet..
+    nog steeds niet.. alleen als de objecten in de 2e state komen(instantiated ver).
 
 ## Bronnen
-Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 
-- [The Guide To Game Design](link)
-- [Alleatoric Algorithms](link)
-- [Flood-Fill Wikipedia](link)
+- [De youtube tutorial](https://www.youtube.com/watch?v=V6wEvT6G92M)
