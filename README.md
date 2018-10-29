@@ -26,17 +26,17 @@ Unity heeft ook al ingebouwde network objecten en ik wilde daar graag meer over 
 
 ## Planning
 
-Week 1:
-ma: Onderzoek naar hoe networking werkt in Unity
-di: volgen van tutorial
-wo: zelf dingen testen
-do: Network player movement
-vri: Network instantiated objects
+### Week 1:
+- ma: Onderzoek naar hoe networking werkt in Unity
+- di: volgen van tutorial
+- wo: zelf dingen testen
+- do: Network player movement
+- vri: Network instantiated objects
 
-week 2:
-ma: Network knockback
-di: Network HP
-wo: Proberen al bestaande objecten in de wereld te syncen, maar t werkt niet..
+### week 2:
+- ma: Network knockback
+- di: Network HP
+- wo: Proberen al bestaande objecten in de wereld te syncen, maar t werkt niet..
     nog steeds niet.. alleen als de objecten in de 2e state komen(instantiated ver).
 
 ## Bronnen
